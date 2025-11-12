@@ -112,6 +112,7 @@
     </test.jvm.args>
 
     <maven.javadoc.skip>true</maven.javadoc.skip> <!-- enabled only in relevant modules separately -->
+    <sonar.organization>vikrant1717</sonar.organization>
   </properties>
   <scm>
     <connection>${scm.url}</connection>
